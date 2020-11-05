@@ -22,7 +22,11 @@
 # APIs and Microservices
 
 >  5 Different projects to practice using Expressjs and other libraries.
-
+  > - Timestamp Microservice: You can jump from unix timestamp to UTC timestamp
+  > - Request Header Parser Microservice: You can get all the information you send in your headers
+  > - URL Shortener Microservice: Add an URL to the database and you will get a shorter URL pointing to the same address
+  > - Exercise Tracker: Keep track of all your exercise routine
+  > - File Metadata Microservice: Get all the information when you load a file
 
 Additional description about the project and its features.
 
